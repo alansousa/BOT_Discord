@@ -7,3 +7,9 @@
  2. https://pyttsx3.readthedocs.io
  3. https://discordpy.readthedocs.io
 
+
+Instruções:
+- Baixe o ffmpeg
+- Instale as dependencias do requirements.txt
+- crie um `.env` 
+- e rode o projeto a partir do `main.py`

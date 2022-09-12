@@ -1,5 +1,5 @@
 
-audio/test.mp3
+audio/*
 tools/__pycache__/messageHandler.cpython-310.pyc
 *.pyc
 *.mp3
@@ -15,3 +15,5 @@ gi
 Discloud1.png
 Discloud2.png
 *.zip
+.DS_Store
+tools/ffmpeg/
